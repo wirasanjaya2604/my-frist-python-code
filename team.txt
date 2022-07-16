@@ -1,2 +1,3 @@
-leader: wira
-staff: .
+leader: wira sanjaya
+staff: oke
+done.
