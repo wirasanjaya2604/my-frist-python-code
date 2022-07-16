@@ -1,2 +1,2 @@
-leader wira
-staff .
+leader: wira
+staff: .
